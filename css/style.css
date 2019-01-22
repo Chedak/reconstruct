@@ -172,3 +172,26 @@ h4,
  {
   color: white;
 }
+
+.sports {
+  position: relative;
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-color: #000;
+  overflow: hidden;
+  color: #fff;
+}
+
+.sports .background {
+  width: 100%;
+  filter: brightness(35%);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  transform: translateY(-50%);
+}
+
+.sports .sports-content {
+  position: relative;
+}
