@@ -1,3 +1,6 @@
+.white {
+  color: white;
+}
 .top-nav {
   padding-top: 3px;
   padding-bottom: 5px;
@@ -5,13 +8,15 @@
   color: #fff;
 }
 
-.top-nav nav a {
+.top-nav nav a,
+.lang a {
   display: inline-block;
   margin-right: 10px;
   transition: color .3s;
 }
 
-.top-nav nav a:hover {
+.top-nav nav a:hover,
+.lang a:hover {
   color: #bbb;
 }
 
@@ -38,4 +43,43 @@
   height: 18px;
   opacity: 1;
   border: .5px solid #fff;
+}
+
+/* Windows menu*/
+
+
+/* Content */
+
+.promo {
+  background-image: url(../img/promo-image.jpg);
+}
+
+.promo h2 {
+  margin: 0 auto;
+  padding: 25px;
+  text-align: center;
+  font-size: 65px;
+  font-weight: 300;
+  min-width: 450px;
+  max-width: 650px;
+}
+
+.promo p {
+  margin: 0 auto;
+  padding: 25px;
+  text-align: center;
+  font-size: 22px;
+  line-height: 1em;
+  font-weight: 300;
+  min-width: 450px;
+  max-width: 650px;
+}
+
+.promo button {
+  margin: 0 auto;
+  display: block;
+  padding: 20px;
+  font-size: 17px;
+  border: 1px solid white;
+  background-color:transparent;
 }
