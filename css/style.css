@@ -190,3 +190,8 @@ h3 {
 .sports-content .g5 {
   padding: 15px 25px;
 }
+
+.sports-details {
+  font-size: 9px;
+  letter-spacing: 0;
+}
