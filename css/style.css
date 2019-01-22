@@ -1,6 +1,3 @@
-.white {
-  color: white;
-}
 .top-nav {
   padding-top: 3px;
   padding-bottom: 5px;
@@ -51,35 +48,54 @@
 /* Content */
 
 .promo {
+  padding: 15px 0 20px;
   background-image: url(../img/promo-image.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.promo h2,
+.promo p,
+.promo button {
+  margin: 0 auto;
+  padding: 25px;
+  text-align: center;
+  font-weight: 300;
+  color: white;
 }
 
 .promo h2 {
-  margin: 0 auto;
-  padding: 25px;
-  text-align: center;
   font-size: 65px;
-  font-weight: 300;
-  min-width: 450px;
-  max-width: 650px;
+  max-width: 750px;
 }
 
 .promo p {
-  margin: 0 auto;
-  padding: 25px;
-  text-align: center;
   font-size: 22px;
   line-height: 1em;
-  font-weight: 300;
-  min-width: 450px;
-  max-width: 650px;
+  max-width: 750px;
+  font-weight: 100;
+  letter-spacing: .1em;
 }
 
 .promo button {
-  margin: 0 auto;
   display: block;
-  padding: 20px;
+  padding: 20px 55px;
   font-size: 17px;
   border: 1px solid white;
   background-color:transparent;
+  cursor: pointer;
+  transition: color .3s, border .3s;
+}
+
+.promo button:hover {
+  color: #bbb;
+  border: 1px solid #bbb;
+}
+
+h1 {
+  font-size: 78px;
+}
+
+.center {
+  justify-content: center;
 }
