@@ -217,3 +217,31 @@ blockquote h2 {
   margin: 0 15px;
   font-size: 72px;
 }
+
+.country-select {
+  font-size: 36px;
+  letter-spacing: 9px;
+}
+
+label {
+  font-size: 1.3rem;
+  line-height: 1.8rem;
+}
+
+select {
+  margin: 2px 0;
+  padding: 12px 0;
+  width: 250px;
+  border-bottom: 1px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  background-color: rgba(0, 0, 0, 0);
+  color: #bbb;
+  cursor: auto;
+  border-radius: 0;
+  font-size: 16px;
+  height: 51px;
+  line-height: 26px;
+}
