@@ -1,3 +1,5 @@
+/* Header */
+
 .top-nav {
   padding-top: 3px;
   padding-bottom: 5px;
@@ -125,18 +127,22 @@ figure {
   margin: 0;
 }
 
+figure img {
+  width: 100%;
+}
+
 figcaption {
   padding: 5px;
   font-size: 12px;
   color: #bbb;
 }
 
-.six-col-img img{
-  max-height: 310px;
-}
-
 .article a h3,
 .article a p {
   padding-left: 5px;
+  margin-top: 0;
+}
+
+h3 {
   margin-top: 0;
 }
