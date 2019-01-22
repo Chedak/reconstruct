@@ -130,6 +130,10 @@ h1 {
   justify-content: center;
 }
 
+.center-items {
+  align-items: center;
+}
+
 figure {
   margin: 0;
 }
