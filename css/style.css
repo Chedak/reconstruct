@@ -195,3 +195,23 @@ h3 {
   font-size: 9px;
   letter-spacing: 0;
 }
+
+blockquote {
+ position: relative;
+ margin-left: 0;
+ margin-right: 0;
+}
+
+blockquote .quotesign {
+  font-size: 6vw;
+  line-height: 1em;
+}
+
+blockquote .quotesign:last-of-type {
+  position: absolute;
+  right: 0;
+}
+
+blockquote h2 {
+  font-size: 72px;
+}
