@@ -210,8 +210,10 @@ blockquote .quotesign {
 blockquote .quotesign:last-of-type {
   position: absolute;
   right: 0;
+  bottom: 0;
 }
 
 blockquote h2 {
+  margin: 0 15px;
   font-size: 72px;
 }
