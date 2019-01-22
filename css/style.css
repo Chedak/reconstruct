@@ -117,6 +117,7 @@
 
 h1 {
   font-size: 78px;
+  margin: 20px;
 }
 
 .center {
@@ -155,4 +156,19 @@ h3 {
 .model-details {
   font-size: 12px;
   letter-spacing: 0;
+}
+.sports {
+  /*background-image: url(../img/audi-sport.jpg);
+  background-position: center;
+  background-size: cover;*/
+}
+
+.sports::after {
+  content: <img src="./img/audi-sport.jpg" alt="">;
+}
+
+.pre-heading,
+h4,
+ {
+  color: white;
 }
