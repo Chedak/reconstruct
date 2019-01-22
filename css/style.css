@@ -1,0 +1,41 @@
+.top-nav {
+  padding-top: 3px;
+  padding-bottom: 5px;
+  background-color: #000;
+  color: #fff;
+}
+
+.top-nav nav a {
+  display: inline-block;
+  margin-right: 10px;
+  transition: color .3s;
+}
+
+.top-nav nav a:hover {
+  color: #bbb;
+}
+
+.top-nav .row {
+  justify-content: space-between;
+}
+
+.top-nav .lang a.active {
+  color: #bbb;
+}
+
+.top-nav .lang a:not(:last-child) {
+  position: relative;
+  margin-right: 8px;
+}
+
+.top-nav .lang a:first-of-type::after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 2px;
+  right: -7px;
+  width: 0;
+  height: 18px;
+  opacity: 1;
+  border: .5px solid #fff;
+}
