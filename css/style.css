@@ -42,8 +42,29 @@
   border: .5px solid #fff;
 }
 
-/* Windows menu*/
+.main-header {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
 
+.main-header .row {
+  justify-content: space-between;
+}
+
+.main-header a {
+  display: block;
+}
+
+.main-header .flag {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.main-header .flag img {
+  width: 40px;
+}
 
 /* Content */
 
