@@ -56,14 +56,14 @@
   display: block;
 }
 
-.main-header .flag {
+.flag {
   width: 30px;
   height: 30px;
   border-radius: 50%;
   overflow: hidden;
 }
 
-.main-header .flag img {
+.flag img {
   width: 40px;
 }
 
@@ -290,4 +290,14 @@ select {
 .social-menu a:hover {
   border-bottom: 3px solid black;
   box-sizing: content-box;
+}
+
+.country-switch p {
+  margin-left: 10px;
+}
+
+.country-switch span {
+  color: lightgrey;
+  font-size: 12px;
+  display: block;
 }
