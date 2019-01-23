@@ -262,3 +262,21 @@ select {
   color: #fff;
   text-align: center;
 }
+
+
+/* Social menu */
+.social-menu {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.social-menu li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.social-menu a {
+  display: block;
+  width: 40px;
+  height: 40px;
+}
