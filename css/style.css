@@ -1,5 +1,4 @@
 /* Header */
-
 .top-nav {
   padding-top: 3px;
   padding-bottom: 5px;
@@ -248,4 +247,18 @@ select {
   font-size: 16px;
   height: 51px;
   line-height: 26px;
+}
+
+.features div div{
+  position: relative;
+}
+
+.features h3 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  transform: translateY(-50%);
+  /*transform: translateX(50%);*/
+  z-index: 999;
 }
