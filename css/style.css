@@ -279,4 +279,10 @@ select {
   display: block;
   width: 55px;
   height: 55px;
+  transition: border .05s;
+}
+
+.social-menu a:hover {
+  border-bottom: 3px solid black;
+  box-sizing: content-box;
 }
