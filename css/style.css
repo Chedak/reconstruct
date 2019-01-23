@@ -301,3 +301,18 @@ select {
   font-size: 12px;
   display: block;
 }
+
+.top-grey {
+  border-top: 1px lightgrey solid;
+}
+
+h5 {
+  font-weight: 600;
+  color: #555;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.footer-menu li {
+  color: #bbb;
+}
