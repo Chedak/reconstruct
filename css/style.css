@@ -182,7 +182,6 @@ h3 {
   position: absolute;
   top: 50%;
   left: 0;
-  width: 100%;
   transform: translateY(-50%);
 }
 
@@ -239,7 +238,6 @@ select {
   border-top: none;
   border-left: none;
   border-right: none;
-  border-top: none;
   background-color: rgba(0, 0, 0, 0);
   color: #bbb;
   cursor: auto;
