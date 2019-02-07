@@ -3,11 +3,12 @@ Reconstruct audi.com homepage,
 as appeared on 21.01.2019.
 
 
-The goal of this exercise is to use a lightweight, general purpose framework, for reconstructing a page that uses a grid framework.
+The goal of this repository is to showcase the usage of a lightweight, general purpose framework. 
+And to reconstruct a page that uses a complex framework.
 
 #### Live demo
 
-[See live version](https://rawcdn.githack.com/Chedak/reconstruct/0254e8291402c39fb7f583767ec699dc33fdb3ea/index.html)
+[See live version](https://rawcdn.githack.com/Chedak/reconstruct/ad01393fef32239fad2beea891a51f7e15dd0b7f/index.html)
 
 ###### Built with Micro CSS framework
 [A really simple, yet effective framework!](https://github.com/nikitin2009/micro-css-framework)
