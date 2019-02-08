@@ -21,8 +21,8 @@ And to reconstruct a page that uses a complex framework.
 
 
 ### See the visual representation of our goal below
-![alt text](https://github.com/Chedak/reconstruct/blob/dev/files%20not%20needed%20by%20project%20requirements/snap1.jpg?raw=true)
-![alt text](https://github.com/Chedak/reconstruct/blob/dev/files%20not%20needed%20by%20project%20requirements/snap2.jpg?raw=true)
-![alt text](https://github.com/Chedak/reconstruct/blob/dev/files%20not%20needed%20by%20project%20requirements/snap3.jpg?raw=true)
-![alt text](https://github.com/Chedak/reconstruct/blob/dev/files%20not%20needed%20by%20project%20requirements/snap4.jpg?raw=true)
-![alt text](https://github.com/Chedak/reconstruct/blob/dev/files%20not%20needed%20by%20project%20requirements/snap5.jpg?raw=true)
+![alt text](https://github.com/Chedak/reconstruct/blob/master/files%20not%20needed%20by%20project%20requirements/snap1.jpg?raw=true)
+![alt text](https://github.com/Chedak/reconstruct/blob/master/files%20not%20needed%20by%20project%20requirements/snap2.jpg?raw=true)
+![alt text](https://github.com/Chedak/reconstruct/blob/master/files%20not%20needed%20by%20project%20requirements/snap3.jpg?raw=true)
+![alt text](https://github.com/Chedak/reconstruct/blob/master/files%20not%20needed%20by%20project%20requirements/snap4.jpg?raw=true)
+![alt text](https://github.com/Chedak/reconstruct/blob/master/files%20not%20needed%20by%20project%20requirements/snap5.jpg?raw=true)
